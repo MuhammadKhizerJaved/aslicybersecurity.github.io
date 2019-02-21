@@ -1,4 +1,4 @@
-<center><IMG src="logo.png" height="100" width="100"></center>
+<center><IMG src="logo.png"></center>
 ## Introduction
 
 <p><font align="center" color="white">
