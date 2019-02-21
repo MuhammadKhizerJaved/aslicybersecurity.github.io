@@ -1,7 +1,4 @@
-## Introduction
-
-<!DOCTYPE html>
-<body onload="type_text()" style="color: rgb(77, 94, 73); background-color: black;">
+<br></br><body onload="type_text()" style="color: rgb(77, 94, 73); background-color: black;">
 <center>
 <br>
 <div id="stage" style=""><br>
@@ -137,8 +134,8 @@ setTimeout("type_text()",speed);
 </div>
 </center>
 
-</body></html>
-
+</body><br></br>
+## Introduction
 
 <p><font align="center" color="white">
 "With the Rise of different Cyber Attacks using different Methods & 0days Exploits By Asli Hackers everyday, No Software, Website or App is Perfectly Save, But With The Help of Alsi Cyber Security. One can get more Secure as We Work to provide Defensive Cyber Security Solutions keeping Offensive Mindset."</font></p>
